@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="slMRzGg7S0uqir2Ilu51oA" Reference="wMw5CilB6UOxrgmLYPiahw/Kn2FU7JuBkySJFw6GIC2Lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="WsMm_EV2EE2NKL-AD60ZKQ" Reference="wMw5CilB6UOxrgmLYPiahw/Kn2FU7JuBkySJFw6GIC2Lg" Selector="&lt;html title='Sales Opportunities' app='chrome.exe' /&gt;" Url="https://www.rpasamples.com/opportunities" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9148b27697d38f6470daa4a66c937c7.jpg" xmlns="">0TNO-eIWrBkGhFURnQAhsKg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

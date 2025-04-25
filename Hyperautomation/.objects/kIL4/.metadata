@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Sales Opportunities",
+  "Type": "App",
+  "Id": "kIL4IEC2nkO28oLRXkBAXQ",
+  "Reference": "wMw5CilB6UOxrgmLYPiahw/kIL4IEC2nkO28oLRXkBAXQ",
+  "Created": "2025-04-25T20:01:06.4535485Z",
+  "Updated": "2025-04-25T20:01:06.4535485Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

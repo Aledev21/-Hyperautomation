@@ -13,6 +13,7 @@
     <SourceRoot Include="C:\Users\playc\.nuget\packages\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgUiPath_Driver_Portable Condition=" '$(PkgUiPath_Driver_Portable)' == '' ">C:\Users\playc\.nuget\packages\uipath.driver.portable\25.2.124.372-preview</PkgUiPath_Driver_Portable>
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\playc\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.3</PkgMicrosoft_CodeAnalysis_Analyzers>
   </PropertyGroup>
 </Project>
