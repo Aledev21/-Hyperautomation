@@ -54,6 +54,58 @@
         "hash": "NExtractDataGeneric`1_1|DataTable|0uXA1Ph1FaNCUqlaCKHSbRUqyJmRTEjTDjZ4kp0BDE",
         "assemblyName": "Studio.Generated.TypedDataTable1"
       }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|dWUsU95L8BadKJqJmbVtJ0ALAq2uIFvCwA5KPGcyM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Id",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Account Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Country",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Opportunity Owner",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Stage",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Quantity",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Unit Sales Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "List Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "NExtractDataGeneric`1_1|DataTable|hQUjLot1gPlhmKCRJLcLDKkicNHXQdliqanqnjCac",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
     }
   ]
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6RCvqzbN1Ua4_185HzQo6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="8be466fc-b2e3-46ea-acfa-82079c983f24" CvElementArea="382, 347, 300, 32" CvType="InputBox" DesignTimeRectangle="386, 352, 295, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i31 i34' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="eb4dfb2e-414c-41b0-803f-d300bc75bb2e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="374, 268, 65, 34" Guid="eaf027ae-15d9-4366-9dd6-c8f71509cc28" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEEAAAAiCAYAAAAAl7SxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMfSURBVGhD7ZYxayJBGIbvpygIFwgYEBJIIVgELAQLwUawOAgoHlxImkMIIhyHEMQmJKDkimDgJFUIBBMIptLmiEWIRYhF0CKwRUBIIVi8987ujLprcme8swnzwBY78+3szLPzfbMfoIGWQLQEoiUQLYFoCURLIFoC0RLI2yU8HCDk9sC1lEV9INucDBrILDHGHUbpQbbNkU4xDFfoAB15/1Zml8Br41K2Oeifpcz+dy4hAL+fi/x8gb5sHtHHSYJ9Aca8bwlh5Avia8dRMWS74rGMiNuHzH5uUkKviVIiCK9H7JJFeCNZVB9ln2I8xuPDWqKMe5vpHq6LKfgXrDH8iQNUcg4JAwPVb3EZ48FHXxSZc+dER8woIYjdOyvvI0f2wW8LAatenG/a02HQRGaFk1pLo3pnwOg2UPq0CtfKJmo9FdNGKcxJRwuodxlzd4ykeCZ2DPWWzg8u2L2K5FELHaOLenEdyyL1hhL6qKXFuCkc3nRhiJgd8UwA+ZYZMMHMNUHUg+usj9u+gFvZBbSQD3jgL/Btl3YJxlGUXzaFE7VggSyg3mzTvDV+xidjGll41Tgy3r9jX811juKHElqopNPYvRr/OPwAfC5U7Mp7O/8kAa0CtzwN31hdtgk7JFS/2L+owhQpF1DbYkxkD7cGd4G6HsqIqfeZ72aq/TIfHfL3mtBFKTQvCVzSYZRfcrthdtW3uaBo2VqoTYI1CdfWlbixYS5ggemjYsTWfuEaSR+JVUxIYF053Ipi2TymR9ecJKhtLvL6AkkWs+SZrGIv7YTE6cRpMr4TXosZMtVOsFLSG9tD/VGNNNedQJ6txcfiVs5Xn2X7LDXhpRjSe1INVm7/sSY45ydgUf7OI31+EoiZy2xTaWHikDDV6fB8ha8ypmJW9jZqBVZ/zzpOnqwQ++kg+/nuoQT1nnAOVY5x3ygjE1w057e23zbHcPJfJFgFcaxACpwSBNP8JzyNx1BseBOHzfGtMcV/QvsUG2GmmZCzFESyeIo8j97XUu3tEt4hWgLREoiWQLQEoiUQLYFoCURLIFoC0RKIlkC0BAC/ASN/fxFCJl2HAAAAAElFTkSuQmCC" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8186d5039b23edb6ad0e1b5716ef9b0b.png" xmlns="">0soOQTfDHpUuU63mr6o7Hdw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

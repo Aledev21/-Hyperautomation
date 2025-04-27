@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="TnTuYmnDEkmBfFT8tSK5YQ" Reference="wMw5CilB6UOxrgmLYPiahw/Lk44ZtuUQkmPAYvyi218Vw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="3q3N5wq5k0Ku8jlSJm1Jiw" Reference="wMw5CilB6UOxrgmLYPiahw/Lk44ZtuUQkmPAYvyi218Vw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.rpasamples.com/opportunities" ContentHash="QbI9mHSnuUOBAXQjJjZH8w" DesignTimeRectangle="146, 327, 969, 721" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="39b7fb81-3fb3-4a48-a3ec-b2627fb18760" Reference="wMw5CilB6UOxrgmLYPiahw/Lk44ZtuUQkmPAYvyi218Vw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sales Opportunities' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f76b14a41f3dd71ab68a05251313631a.png" xmlns="">0RCN1tDXrhUeL8Vhd3dHS4A</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.rpasamples.com/opportunities" ContentHash="98pBhknM-kChd8sbqmPBnQ" DesignTimeRectangle="146, 274, 969, 721" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="785f7eb0-778c-4fdb-850c-a19c7a6f98f6" Reference="wMw5CilB6UOxrgmLYPiahw/Lk44ZtuUQkmPAYvyi218Vw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sales Opportunities' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3994c807775b1fad7f5a0d8e7c10e48f.png" xmlns="">0q1K0hJOl50av8HPh53O4iA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;
